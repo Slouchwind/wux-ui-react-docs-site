@@ -1,23 +1,47 @@
-.pl-c1,
-.pl-s .pl-v {
-    color: #79c0ff;
+pre .pl-c1,
+pre .pl-s .pl-v {
+  color: #0550ae;
 }
 
-.pl-k {
-    color: #ff7b72;
+pre .pl-k {
+  color: #cf222e;
 }
 
-.pl-v,
-.pl-smw {
-    color: #ffa657;
+pre .pl-v,
+pre .pl-smw {
+  color: #953800;
 }
 
-.pl-s,
-.pl-pds,
-.pl-s .pl-pse .pl-s1,
-.pl-sr,
-.pl-sr .pl-cce,
-.pl-sr .pl-sre,
-.pl-sr .pl-sra {
-    color: #a5d6ff;
+pre .pl-s,
+pre .pl-pds,
+pre .pl-s .pl-pse .pl-s1,
+pre .pl-sr,
+pre .pl-sr .pl-cce,
+pre .pl-sr .pl-sre,
+pre .pl-sr .pl-sra {
+  color: #0a3069;
+}
+
+[dark-mode] pre .pl-c1,
+[dark-mode] pre .pl-s .pl-v {
+  color: #79c0ff;
+}
+
+[dark-mode] pre .pl-k {
+  color: #ff7b72;
+}
+
+[dark-mode] pre .pl-v,
+[dark-mode] pre .pl-smw {
+  color: #ffa657;
+}
+
+[dark-mode] pre .pl-s,
+[dark-mode] pre .pl-pds,
+[dark-mode] pre .pl-s .pl-pse .pl-s1,
+[dark-mode] pre .pl-sr,
+[dark-mode] pre .pl-sr .pl-cce,
+[dark-mode] pre .pl-sr .pl-sre,
+[dark-mode] pre .pl-sr .pl-sra {
+  color: #a5d6ff;
 }
