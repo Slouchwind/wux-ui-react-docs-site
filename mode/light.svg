@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="165px" height="165px" viewBox="0 0 165 165" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Light-Mode" transform="translate(2.5 2.5)">
+    <path d="M40.1 78.7C40.1 56.6086 58.0086 38.7 80.1 38.7C102.191 38.7 120.1 56.6086 120.1 78.7C120.1 100.791 102.191 118.7 80.1 118.7C58.0086 118.7 40.1 100.791 40.1 78.7Z" id="Oval" fill="#7986FF" fill-rule="evenodd" stroke="none" />
+    <path d="M80 26L80 0" id="Line" fill="none" fill-rule="evenodd" stroke="#7986FF" stroke-width="5" stroke-linecap="round" />
+    <path d="M80 160L80 133" id="Line-Copy" fill="none" fill-rule="evenodd" stroke="#7986FF" stroke-width="5" stroke-linecap="round" />
+    <path d="M134 79L160 79" id="Line-Copy-2" fill="none" fill-rule="evenodd" stroke="#7986FF" stroke-width="5" stroke-linecap="round" />
+    <path d="M118.1 42.5L137.169 23.4314" id="Line-Copy-3" fill="none" fill-rule="evenodd" stroke="#7986FF" stroke-width="5" stroke-linecap="round" />
+    <path d="M23.4314 136.6L41.9315 118.1" id="Line-Copy-4" fill="none" fill-rule="evenodd" stroke="#7986FF" stroke-width="5" stroke-linecap="round" />
+    <path d="M43.5035 42.5L23.4348 22.4313" id="Line-Copy-6" fill="none" fill-rule="evenodd" stroke="#7986FF" stroke-width="5" stroke-linecap="round" />
+    <path d="M136.568 136.569L118.1 118.1" id="Line-Copy-5" fill="none" fill-rule="evenodd" stroke="#7986FF" stroke-width="5" stroke-linecap="round" />
+    <path d="M27 79L0 79" id="Line-Copy-7" fill="none" fill-rule="evenodd" stroke="#7986FF" stroke-width="5" stroke-linecap="round" />
+  </g>
+</svg>
