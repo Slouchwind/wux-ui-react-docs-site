@@ -45,3 +45,13 @@ pre .pl-sr .pl-sra {
 [dark-mode] pre .pl-sr .pl-sra {
   color: #a5d6ff;
 }
+
+.wux-typo pre {
+  padding: 8px 12px;
+  font-size: 14px;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+  border-radius: 12px;
+  -webkit-overflow-scrolling: touch;
+  background-color: #0000000a;
+}
