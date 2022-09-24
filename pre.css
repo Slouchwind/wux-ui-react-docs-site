@@ -55,3 +55,11 @@ pre .pl-sr .pl-sra {
   background-color: #00000040;
   border: none !important;
 }
+
+.wux-header .wux-header-option-group {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  align-content: center;
+}
