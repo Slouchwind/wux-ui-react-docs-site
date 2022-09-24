@@ -47,21 +47,11 @@ pre .pl-sr .pl-sra {
 }
 
 .wux-typo pre {
-  padding: 8px 12px;
-  font-size: 14px;
-  white-space: pre-wrap;
-  overflow-wrap: break-word;
-  border-radius: 12px;
-  -webkit-overflow-scrolling: touch;
   background-color: #0000000a;
+  border: none;
 }
 
 [dark-mode] .wux-typo pre {
-  padding: 8px 12px;
-  font-size: 14px;
-  white-space: pre-wrap;
-  overflow-wrap: break-word;
-  border-radius: 12px;
-  -webkit-overflow-scrolling: touch;
   background-color: #00000040;
+  border: none;
 }
