@@ -56,8 +56,11 @@ pre .pl-sr .pl-sra {
   border: none !important;
 }
 
+#header-option {
+  display: flex !important;
+}
+
 .wux-header .wux-header-option-group {
-  display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
   align-items: center;
