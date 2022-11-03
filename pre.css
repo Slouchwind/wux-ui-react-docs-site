@@ -22,6 +22,10 @@ pre .pl-sr .pl-sra {
     color: #0a3069;
 }
 
+pre .pl-ent {
+    color: #116329;
+}
+
 .wux-typo pre {
     background-color: #0000000a !important;
     border: none !important;
@@ -54,8 +58,14 @@ pre .pl-sr .pl-sra {
     }
 
     pre .pl-kos,
-    pre .pl-s1 {
+    pre .pl-s1,
+    pre .pl-en,
+    pre .pl-smi {
         color: #c9d1d9;
+    }
+
+    pre .pl-ent {
+        color: #7ee787;
     }
 
     .wux-typo pre {
