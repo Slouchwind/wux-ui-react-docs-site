@@ -53,7 +53,8 @@ pre .pl-sr .pl-sra {
         color: #a5d6ff;
     }
 
-    pre .pl-kos {
+    pre .pl-kos,
+    pre .pl-s1 {
         color: #c9d1d9;
     }
 
