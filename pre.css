@@ -26,9 +26,15 @@ pre .pl-ent {
     color: #116329;
 }
 
+pre .pl-e,
+pre .pl-en {
+    color: #8250df;
+}
+
 .wux-typo pre {
     background-color: #0000000a !important;
     border: none !important;
+    color: #24292f !important;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -59,7 +65,6 @@ pre .pl-ent {
 
     pre .pl-kos,
     pre .pl-s1,
-    pre .pl-en,
     pre .pl-smi {
         color: #c9d1d9;
     }
@@ -68,9 +73,15 @@ pre .pl-ent {
         color: #7ee787;
     }
 
+    pre .pl-e,
+    pre .pl-en {
+        color: #d2a8ff;
+    }
+
     .wux-typo pre {
         background-color: #00000040 !important;
         border: none !important;
+        color: #c9d1d9 !important;
     }
 }
 
@@ -83,4 +94,8 @@ pre .pl-ent {
     flex-wrap: nowrap;
     align-items: center;
     align-content: center;
+}
+
+div#github-md {
+    margin: 0 20px 15px 20px;
 }
